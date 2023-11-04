@@ -1,12 +1,13 @@
 .. _ref_Owasp_Zap:
 
-=========
-Owasp ZAP
-=========
+===========
+ZAP (owasp)
+===========
 
 .. index::
-   single: Owasp ZAP
-   single: Web App Pentest; Owasp ZAP
+   single: ZAP (owasp)
+   single: Web App Pentest; ZAP (owasp)
+   single: Web Proxy; ZAP (owasp)
 
 .. toctree::
    :maxdepth: 2
