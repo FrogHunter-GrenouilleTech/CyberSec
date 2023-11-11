@@ -14,6 +14,7 @@ Server-Side Vulnerabilities
    pathTraversal/pathTraversal
    accessControl/accessControl
    AuthenticationVuln/AuthenticationVuln
+   OSCmdInjec/OSCmdInjec
    SSRF/SSRF
    fileUploadVuln/fileUploadVuln
 

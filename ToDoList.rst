@@ -5,7 +5,7 @@ VHL
 ---
 
 5.6 EXPLOITING VULNERABILITIES IN PRACTICE
-    --> Exploiting VSFTPD v2.3.4 with Metasploit
+    --> Exploiting Unreal IRCD 3.2.8.1 with Metasploit
 
 ####
 

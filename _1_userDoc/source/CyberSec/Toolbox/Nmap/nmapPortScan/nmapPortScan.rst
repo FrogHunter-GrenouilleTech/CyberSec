@@ -17,6 +17,11 @@ Nmap Port Scanning Techniques
 
 .. _`Nmap - Port Scanning Techniques`: https://nmap.org/book/man-port-scanning-techniques.html
 
+    .. image:: images/commonPorts.jpg
+       :width: 500 px
+       :align: center
+
+
 Syn scan
 ========
 

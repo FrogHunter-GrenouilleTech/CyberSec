@@ -15,12 +15,15 @@ Toolbox
    BurpSuite/BurpSuite
    Certutil/Certutil
    Gophish/Gophish
+   LDAPMonitor/LDAPMonitor
    Metasploit/Metasploit
    Netcat/Netcat
    Nmap/Nmap
    OsintTools/OsintTools
    Owasp_ZAP/Owasp_ZAP
    Powershell/Powershell
+   Python/Python
+   ReverseShell/ReverseShell
    RTTool/RTTool
    SystemCmd/SystemCmd
    VBSript/VBSript
