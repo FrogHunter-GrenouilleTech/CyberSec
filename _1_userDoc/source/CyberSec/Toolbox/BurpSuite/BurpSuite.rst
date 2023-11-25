@@ -8,13 +8,13 @@ BurpSuite
    single: BurpSuite
    single: Web App Pentest; BurpSuite
 
+.. contents::
+    :backlinks: top
+
 .. toctree::
    :maxdepth: 2
 
    Child/Child
-
-.. contents::
-    :backlinks: top
 
 ####
 

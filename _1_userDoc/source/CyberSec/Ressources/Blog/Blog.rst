@@ -10,30 +10,16 @@ Blogs
     :depth: 3
     :backlinks: top
 
-####
+.. toctree::
+   :maxdepth: 2
 
-.. index::
-   single: Active Directory
-   single: Blogs; Active Directory
-   single: Ressources; Active Directory
-
-------------------
-The Hacker Recipes
-------------------
-
-    .. note:: 
-        
-        **Liens Web**
-        
-        * `thehacker.recipes`_
-        
-.. _`thehacker.recipes`: https://www.thehacker.recipes/
-
-This project is aimed at providing technical guides on various hacking topics. The most advanced
-topics are **Active Directory and Web services**. Other topics will be added. The ultimate goal is
-centralize all hacking techniques.
+   LDAPBlog/LDAPBlog
 
 ####
+
+--------------------
+kali linux tutorials
+--------------------
 
     .. note:: 
         

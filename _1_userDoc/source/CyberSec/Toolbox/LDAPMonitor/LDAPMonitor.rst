@@ -5,8 +5,10 @@ LDAPMonitor
 ===========
 
 .. index::
-   single: LDAPMonitor
+   single: LDAP; LDAPMonitor
+   single: Active Directory; LDAPMonitor
    single: Tools; LDAPMonitor
+
 
 .. contents::
     :backlinks: top

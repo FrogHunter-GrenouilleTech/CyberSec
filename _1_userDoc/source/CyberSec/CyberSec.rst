@@ -14,6 +14,7 @@ Cyber Security
    BlueTeam/BlueTeam
    Distrib/Distrib
    Pentest/Pentest
+   Ressources/Ressources
    webSecurity/webSecurity
    Toolbox/Toolbox
 
@@ -34,7 +35,7 @@ The Cyber Security cover a large panel of activity. It can be among other things
    
       That's the name usual name for the offensive team. Pentesters and Bug Bounty hunters are a
       part of this team. The objectif of a the Red Team is to find and exploit every little crack or
-      weeakness of  a target.
+      weeakness of a target.
 
       A target can be a Web Application, an equipement, an enterprise or an organization.
 

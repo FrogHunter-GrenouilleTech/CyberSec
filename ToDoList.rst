@@ -4,8 +4,8 @@
 VHL
 ---
 
-5.6 EXPLOITING VULNERABILITIES IN PRACTICE
-    --> Exploiting Unreal IRCD 3.2.8.1 with Metasploit
+6 PRIVILEGE ESCALATION
+    --> 6.1 INTRO
 
 ####
 

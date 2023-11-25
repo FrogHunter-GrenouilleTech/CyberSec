@@ -51,6 +51,119 @@ used for enumeration or for OSINT.
 ####
 
 .. index::
+   single: Google Dorks
+   single: Dorks; Google Dorks
+   single: Search Engines; Google Dorks
+
+.. _ref_gDorks:
+
+------------
+Google Dorks
+------------
+
+    .. note:: 
+        
+        **Liens Web**
+        
+        * `dorkking.blindf.com`_
+        * `Google Hacking Database`_
+        * `Google Dorking Cheat Sheet – 2023`_
+        * `1000 Best Google Dorks List`_
+        
+.. _`1000 Best Google Dorks List`: https://gbhackers.com/latest-google-dorks-list/
+.. _`Google Dorking Cheat Sheet – 2023`: https://usersearch.org/updates/2023/02/05/the-ultimate-google-dorking-cheatsheet-2023/
+.. _`Google Hacking Database`: https://www.exploit-db.com/google-hacking-database
+.. _`dorkking.blindf.com`: https://dorkking.blindf.com/
+
+Google Dork is a search query that we give to Google to look for more granular information and
+retrieve relevant information quickly.
+
+**N.B** : Most of the instructrion are availlable on other search engine like duckduckgo for exemple.
+
+.. index::
+   single: LinkedIn Dorks
+   single: Dorks; LinkedIn Dorks
+   single: LinkedIn; LinkedIn Dorks
+   single: Search Engines; LinkedIn Dorks
+
+LinkeDin Google Dorks
+=====================
+
+    .. note:: 
+        
+        **Liens Web**
+        
+        * `LinkedIn Dorks`_
+
+        .. code:: http
+            :number-lines:
+            :force:
+
+                site:fr.linkedin.com/in "exemple.com" "Assistante Direction"
+        
+        
+.. _`LinkedIn Dorks`: https://github.com/krlabs/linkedin-dorks
+
+####
+
+.. index::
+   single: Dorks
+
+----------------------
+Dorks Collections List
+----------------------
+
+    .. note:: 
+        
+        **Liens Web**
+        
+        * `Github repositories`_
+        
+.. _`Github repositories`: https://github.com/cipher387/Dorks-collections-list#duckduckdorks
+
+
+List of Github repositories and articles with list of dorks for different search engines.
+
+Table of contents
+=================
+
+    * DuckDuckGo dorks
+    * Github dorks
+    * Shodan dorks
+    * Netlas dorks
+    * Censys dorks
+    * Virus Total dorks
+    * Binary Edge dorks
+    * Yandex dorks
+    * Google dorks
+    * Onion dorks
+    * CCTV dorks
+    * Backlink dorks
+    * Token dorks
+    * Hidden files dorks
+    * Linkedin dorks (X-Ray)
+    * Carding dorks
+    * Gaming dorks
+    * Cryptocurrency dorks
+    * Shopping dorks
+    * Bug Bounty dorks
+    * Hidden files dorks
+    * Admin panel dorks
+    * SQL injection dorks
+    * GIT dorks
+    * Log files dorks
+    * CMS dorks
+    * Cloud Instance dorks
+    * "Wiki" dorks
+    * Awstats dorks
+    * Movie dorks
+    * Tools to automate the work with dorks
+    * Broswer extensions
+    * Online tools to work with dorks
+
+####
+
+.. index::
    single: Shodan
    single: Search Engines; Shodan
 

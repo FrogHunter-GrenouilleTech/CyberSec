@@ -1,6 +1,6 @@
-===========================
-Cyber Security Distribution
-===========================
+==============================
+Cyber Security OS Distribution
+==============================
 
 .. index::
    single: Distrib
