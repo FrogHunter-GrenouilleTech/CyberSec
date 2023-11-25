@@ -16,6 +16,7 @@ Toolbox
    Certutil/Certutil
    CrossLinked/CrossLinked
    DockerInUrl/DockerInUrl
+   Exegol/Exegol
    Gophish/Gophish
    LDAPMonitor/LDAPMonitor
    Metasploit/Metasploit
