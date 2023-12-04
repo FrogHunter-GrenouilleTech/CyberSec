@@ -7,7 +7,7 @@ wget
 .. index::
    single: wget
    single: Download tool; wget
-   single: File Transfert; wget
+   single: File Transfer; wget
 
 .. contents::
     :backlinks: top

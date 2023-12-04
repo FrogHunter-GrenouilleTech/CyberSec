@@ -5,7 +5,8 @@ PowerShell - File Transfert
 ===========================
 
 .. index::
-   single: File Transfert; Powershell
+   single: File Transfer; Powershell
+   single: Powershell; File Transfert
 
 .. contents::
     :depth: 3

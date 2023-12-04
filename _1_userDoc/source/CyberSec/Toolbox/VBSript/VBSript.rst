@@ -6,7 +6,7 @@ VBSript
 
 .. index::
    single: VBSript
-   single: File Transfert; VBSript
+   single: File Transfer; VBSript
 
 .. contents::
     :depth: 3

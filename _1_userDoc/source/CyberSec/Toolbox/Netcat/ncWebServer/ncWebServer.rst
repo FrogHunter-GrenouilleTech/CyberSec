@@ -8,7 +8,7 @@ Netcat - Web Server
    single: Netcat - Web Server
    single: Netcat; Netcat - Web Server
    single: Web Server; Netcat - Web Server
-   single: File Transfert; Netcat - Web Server
+   single: File Transfer; Netcat - Web Server
 
 
 .. contents::

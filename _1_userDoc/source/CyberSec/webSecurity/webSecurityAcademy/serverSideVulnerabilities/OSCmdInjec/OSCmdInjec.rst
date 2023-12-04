@@ -82,6 +82,35 @@ the query.
 
              productID=381&storeID=29
 
+        the two elements are separate by an ampersand (&)
+
+Placing the additional command separator **[& | ;]** after the injected command is useful because it
+separates the injected command from whatever follows the injection point. This reduces the chance
+that what follows will prevent the injected command from executing. 
+
+    .. note:: 
+        
+        **OS Command Insertnjection**
+
+        Request:
+        
+        .. code:: http
+            :number-lines:
+            :force:
+
+             productID=381&storeID=29;whoami
+
+        .. image:: images/osCmdInjection.png
+           :width: 500 px
+           :align: center
+
+        Response:
+        
+        .. code:: http
+            :number-lines:
+            :force:
+
+             peter-enaYKV
 
 ####
 

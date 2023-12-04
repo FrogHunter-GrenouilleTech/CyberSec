@@ -6,7 +6,7 @@ Certutil.exe
 
 .. index::
    single: CertUtil
-   single: File Transfert; CertUtil
+   single: File Transfer; CertUtil
 
 .. contents::
     :depth: 3

@@ -4,8 +4,8 @@
 VHL
 ---
 
-6 PRIVILEGE ESCALATION
-    --> 6.1 INTRO
+6.2 PRIVILEGE ESCALATION ON LINUX
+    --> Collecting system information manually
 
 ####
 

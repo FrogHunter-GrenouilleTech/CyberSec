@@ -1,4 +1,4 @@
-.. _ref_NetCat:
+.. _ref_Netcat:
 
 ======
 Netcat
@@ -7,7 +7,7 @@ Netcat
 .. index::
    single: Netcat
    single: Tools; Netcat
-   single: File Transfert; Netcat
+   single: File Transfer; Netcat
    single: Remote Code Execution (RCE); Netcat
 
 .. contents::

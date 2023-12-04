@@ -8,8 +8,10 @@ Ressources
 .. toctree::
    :maxdepth: 3
 
+   Guides/Guides
    Blog/Blog
    SearchEngine/SearchEngine
+
 
 ####
 
