@@ -8,13 +8,13 @@
 
 project = "Cyber Security"
 copyright = '2023, Poltergeist42'
-author = 'Poltergeist42'
+author = 'Frog-Hunter'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
 
-language = 'fr'
+language = 'en'
 
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output

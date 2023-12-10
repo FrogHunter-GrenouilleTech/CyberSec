@@ -13,7 +13,9 @@ Cyber Security
 
    BlueTeam/BlueTeam
    Distrib/Distrib
+   Hardware/Hardware
    Pentest/Pentest
+   Phishing/Phishing
    Ressources/Ressources
    webSecurity/webSecurity
    Toolbox/Toolbox
@@ -35,19 +37,19 @@ The Cyber Security cover a large panel of activity. It can be among other things
    
       That's the name usual name for the offensive team. Pentesters and Bug Bounty hunters are a
       part of this team. The objectif of a the Red Team is to find and exploit every little crack or
-      weeakness of a target.
+      weakness of a target.
 
-      A target can be a Web Application, an equipement, an enterprise or an organization.
+      A target can be a Web Application, an equipment, an enterprise or an organization.
 
 
    :ref:`Blue Team <ref_BlueTeam>`
 
-      That's the usual name of the defensinve Team. The team's goal is to find and fix every little
-      crack and weeakness of their target. Most of the time those task are performed by the IT Team
+      That's the usual name of the defensive Team. The team's goal is to find and fix every little
+      crack and weakness of their target. Most of the time those task are performed by the IT Team
       or the RSSI.
 
       The other big task of the Blue Team is the Incidente response for whom It is necessary to
-      performe forensic analisys, guessing and the consultation of many event logs.
+      performe forensic analysis, guessing and the consultation of many event logs.
 
 
    Purple Team

@@ -6,6 +6,7 @@ Gophish
 
 .. index::
    single: Gophish
+   single: Tools; Gophish
    single: Phishing; Gophish
 
 .. contents::

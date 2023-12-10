@@ -1,10 +1,10 @@
 ============================
-Server-side request forgery 
+Server-Side Request Forgery 
 ============================
 
 .. index::
-   single: Server-side request forgery (SSRF)
-   single: Server-Side Vulnerabilities; Server-side request forgery (SSRF)
+   single: Server-Side Request Forgery (SSRF)
+   single: Server-Side Vulnerabilities; Server-Side Request Forgery (SSRF)
 
 .. contents::
     :depth: 3
