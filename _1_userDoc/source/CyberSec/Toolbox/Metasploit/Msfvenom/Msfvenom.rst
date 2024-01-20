@@ -7,6 +7,7 @@ Msfvenom
 .. index::
    single: Msfvenom
    single: Metasploit; Msfvenom
+   single: Reverse Shell; Msfvenom
 
 .. contents::
     :depth: 3
