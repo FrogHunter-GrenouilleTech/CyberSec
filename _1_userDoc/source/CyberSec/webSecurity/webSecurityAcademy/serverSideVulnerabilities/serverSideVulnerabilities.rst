@@ -18,6 +18,7 @@ Server-Side Vulnerabilities
    fileUploadVuln/fileUploadVuln
    OSCmdInjec/OSCmdInjec
    SQLInjection/SQLInjection
+   NoSQLi/NoSQLi
 
 ####
 

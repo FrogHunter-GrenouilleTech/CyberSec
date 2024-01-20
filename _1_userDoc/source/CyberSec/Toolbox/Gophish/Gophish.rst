@@ -44,6 +44,9 @@ Gophish
             Misc :
         
                 * `ngrok - web url genrator for localhost`_
+                * `Never had a bad day phishing. How to set up GoPhish to evade security controls.`_
+                
+.. _`Never had a bad day phishing. How to set up GoPhish to evade security controls.`: https://www.sprocketsecurity.com/resources/never-had-a-bad-day-phishing-how-to-set-up-gophish-to-evade-security-controls
                 
 .. _`Conseils de prévention du phishing`: https://www.kaspersky.fr/resource-center/preemptive-safety/phishing-prevention-tips
 .. _`Adopter les bons réflexes face au phishing`: https://www.premiers-clics.fr/cours-informatique/protection-phishing-le-comportement-a-adopter/

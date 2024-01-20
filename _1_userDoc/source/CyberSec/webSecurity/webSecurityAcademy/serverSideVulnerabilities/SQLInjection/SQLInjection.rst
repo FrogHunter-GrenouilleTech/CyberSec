@@ -143,6 +143,167 @@ yet released.
 The modified query returns all items where either the category is Gifts, or 1 is equal to 1. As 1=1
 is always true, the query returns all items.
 
+    .. note:: 
+        
+        **Exemple**
+
+        In a normal mode (without SQLi), 
+
+        .. image:: images/noSQLi.png
+           :width: 500 px
+           :align: center
+
+
+         only some of the images are shoed.
+
+        .. image:: images/SQLi_gifts.png
+            :width: 500 px
+            :align: center
+
+
+        With an SQLi,
+
+        .. image:: images/SQLi_on.png
+           :width: 500 px
+           :align: center
+
+
+        All the images from the "Gift" category are shoed.
+
+        .. image:: images/SQLi_gifts_more.png
+           :width: 500 px
+           :align: center
+
+####
+
+----------------------------
+Subverting application logic
+----------------------------
+
+When an application ask for credential with a username and password. If a user submits the username
+**wiener** and the password **bluecheese**, the application checks the credentials by performing the
+following SQL query:
+
+    .. note:: 
+        
+        .. code:: SQL
+            :number-lines:
+            :force:
+
+            SELECT * FROM users WHERE username = 'wiener' AND password = 'bluecheese'
+
+        If the query returns the details of a user, then the login is successful. Otherwise, it is
+        rejected.
+
+
+In this case, an attacker can log in as any user without the need for a password. They can do this
+using the SQL comment sequence **--** to remove the password check from the WHERE clause of the
+query. 
+
+
+    .. note:: 
+        
+        For example, submitting the username **administrator'-- and a blank password** results in
+        the following query:
+        
+        .. code:: SQL
+            :number-lines:
+            :force:
+
+            SELECT * FROM users WHERE username = 'administrator'--' AND password = ''
+
+
+        This query returns the user whose username is **administrator** and successfully logs the
+        attacker in as that user. 
+
+    .. note:: 
+        
+        **Exemple**
+
+        With the normal request,
+
+        .. image:: images/noSQLi_fullQuery.png
+           :width: 500 px
+           :align: center
+
+        The response will not allowing us to log as "administrator".
+
+        .. image:: images/noSQLi_resp.png
+           :width: 500 px
+           :align: center
+
+
+        With the SQLi juste after the username,
+
+        .. image:: images/SQLi_partQuery.png
+           :width: 500 px
+           :align: center
+
+        We will receive a 200 OK and the server will allow us to log as "administrator".
+
+        .. image:: images/SQLi_resp.png
+           :width: 500 px
+           :align: center
+
+
+    .. important:: 
+        
+        **💡 Tips**
+
+        It is always a good idea to test the request from the web page rather than repeater window
+        of the proxy
+
+        .. image:: images/SQLi_webReq.png
+           :width: 500 px
+           :align: center
+
+        The results will be more visual.
+
+        .. image:: images/SQLi_webResp.png
+           :width: 500 px
+           :align: center
+
+####
+
+----------------------------------------
+Be careful with the use of 'OR 1=1 -- -'
+----------------------------------------
+
+    .. note:: 
+        
+        **Liens Web**
+
+        * `Avoid "OR 1=1" in SQL Injections - Youtube`_
+        
+.. _`Avoid "OR 1=1" in SQL Injections - Youtube`: https://www.youtube.com/watch?v=8iSGWP7lk-M
+
+
+During hunting for a SQL Injection, it is better to not use the **' OR 1=1 -- -'** payload since a
+same string request can be used in many different query. It can cause sever damage to the database
+if the query is used to performe an "UPDATE" or "DELETE" request.
+
+    .. note:: 
+        
+        For exemple this request will update all the users password
+        
+        .. code:: SQL
+            :number-lines:
+            :force:
+
+             UPDATE users SET password = 'newpass' WHERE email = 'tib3rius@exemple.com' OR 1=1 -- -'
+
+        
+        Before the update query:
+        
+            .. image:: images/beforeUpdate.png
+               :width: 500 px
+               :align: center
+
+        After the update query:
+
+            .. image:: images/afterUpdate.png
+               :width: 500 px
+               :align: center
 
 
 ####

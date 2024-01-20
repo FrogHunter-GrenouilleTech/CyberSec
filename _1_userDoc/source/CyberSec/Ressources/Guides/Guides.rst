@@ -35,6 +35,26 @@ Windows
 
         * :download:`Windows Privilege Escalation <ressources/WindowsPrivEsc.pdf>`
 
+####
+
+-----------------------
+Web Application Pentest
+-----------------------
+
+    .. index::
+       single: Web App Pentest; Web App Pentest - Guide
+
+    .. note:: 
+        
+        **Ressources**
+
+        .. _ref_webAppPenTestGuide:
+        
+        * :download:`Web Application Penetration Testing <ressources/WebAppPenTest.pdf>`
+
+
+####
+
 
 
 

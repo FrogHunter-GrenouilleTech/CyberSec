@@ -222,6 +222,51 @@ Message Exemple
         
         [Coordonnées de contact]
 
+Rewards
+-------
+
+Some exemple for potential rewards to propose to the users.
+
+    .. note:: 
+        
+        **Lot "Relaxation et Spa"**
+
+                * Forfait spa pour une journée de détente complète.
+                * Massage thérapeutique ou soin du visage.
+                * Produits de soins de luxe.
+
+    .. note:: 
+        
+        **Lot "Santé et Fitness"**
+
+                * Abonnement à une salle de sport ou à des cours de fitness en ligne.
+                * Consultation avec un nutritionniste.
+                * Tracker d'activité physique haut de gamme.
+
+    .. note:: 
+        
+        **Lot "Expérience Culinaire"**
+
+                * Cours de cuisine privé avec un chef renommé.
+                * Dîner gastronomique pour deux dans un restaurant étoilé.
+                * Panier-cadeau avec des produits gastronomiques.
+
+    .. note:: 
+        
+        **Lot "Bien-être au Travail"**
+
+                * Bureau ergonomique ou chaise de bureau haut de gamme.
+                * Séance de coaching en développement personnel.
+                * Formation en gestion du stress.
+
+    .. note:: 
+        
+        **Lot "Évasion et Aventure"**
+
+                * Séjour d'un week-end dans un complexe spa et bien-être.
+                * Activité de plein air guidée (randonnée, yoga en plein air, etc.).
+                * Carte-cadeau pour une expérience d'aventure au choix.
+
 ####
 
 SC-4 : Événement d'entreprise exclusif

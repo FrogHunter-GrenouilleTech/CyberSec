@@ -5,7 +5,7 @@ VHL
 ---
 
 6.2 PRIVILEGE ESCALATION ON LINUX
-    --> Collecting system information manually
+    --> Linux privilege escalation checker 
 
 ####
 
@@ -13,8 +13,11 @@ VHL
 Web application
 ---------------
 
-File Upload Vulnerabilities
-    How do file upload vulnerabilities arise?
+NoSQLi
+    -->Detecting operator injection in MongoDB 
+        --> LAB
+
+    URL : https://portswigger.net/web-security/nosql-injection
 
 
 ####

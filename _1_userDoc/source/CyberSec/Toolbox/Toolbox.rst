@@ -19,10 +19,13 @@ Toolbox
    Exegol/Exegol
    Gophish/Gophish
    LDAPMonitor/LDAPMonitor
+   LinPEAS/LinPEAS
    Metasploit/Metasploit
    Netcat/Netcat
+   NetCmd/NetCmd
    Nmap/Nmap
    OsintTools/OsintTools
+   Owasp_ZAP/Owasp_ZAP
    Powershell/Powershell
    Python/Python
    PwnDocNg/PwnDocNg
@@ -32,7 +35,7 @@ Toolbox
    SystemCmd/SystemCmd
    VBSript/VBSript
    wget/wget
-   Owasp_ZAP/Owasp_ZAP
+   Wordlist/Wordlist
 
 ####
 
