@@ -9,6 +9,9 @@ Netcat
    single: Tools; Netcat
    single: File Transfer; Netcat
    single: Remote Code Execution (RCE); Netcat
+   single: Reverse Shell; Netcat
+   single: Reverse Shell; Reverse Shell - Handler
+   single: Reverse Shell - Handler; Netcat
 
 .. contents::
     :depth: 3

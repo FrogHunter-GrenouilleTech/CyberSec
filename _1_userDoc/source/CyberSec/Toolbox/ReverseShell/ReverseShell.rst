@@ -11,11 +11,6 @@ Reverse Shell
 .. contents::
     :backlinks: top
 
-.. toctree::
-   :maxdepth: 3
-
-   Hoaxshell/Hoaxshell
-
 ####
 
     .. note:: 
@@ -27,6 +22,10 @@ Reverse Shell
 .. _`Reverse Shell Cheat Sheet`: https://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet
 
 ####
+
+-------------
+Reverse Shell
+-------------
 
 A **reverse shell**, also known as a connect-back shell, is a type of shell connection that
 initiates from the compromised machine and connects back to a predetermined attacker-controlled
@@ -110,7 +109,7 @@ Reverse shell as a payload
 --------------------------
 
 Since a reverse shell can be establish only after the exploitation of one or more vulnerability. We
-need need to push the reverse shell, to the compromized computer, as a payload in the same time of
+need need to push the reverse shell, to the compromised computer, as a payload in the same time of
 the exploitation of the vulnerability.
 
     .. note:: 
@@ -123,6 +122,20 @@ the exploitation of the vulnerability.
 .. _`rcX - Shell Generator`: https://rcxonline.cf/
 .. _`Reverse Shell Generator`: https://www.revshells.com/
 
+
+payload Generator
+=================
+
+    * :ref:`Hoaxshell <ref_hoaxshell>`
+
+    * :ref:`MSFVenom <ref_msfvenom>`
+
+Reverse shell Handler
+=====================
+
+    * :ref:`Netcat <ref_Netcat>`
+
+    * :ref:`Pwncat <_ref_Pwncat>`
 
 ####
 

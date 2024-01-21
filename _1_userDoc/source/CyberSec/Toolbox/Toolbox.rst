@@ -18,6 +18,7 @@ Toolbox
    DockerInUrl/DockerInUrl
    Exegol/Exegol
    Gophish/Gophish
+   Hoaxshell/Hoaxshell
    LDAPMonitor/LDAPMonitor
    LinPEAS/LinPEAS
    Metasploit/Metasploit
@@ -27,6 +28,7 @@ Toolbox
    OsintTools/OsintTools
    Owasp_ZAP/Owasp_ZAP
    Powershell/Powershell
+   Pwncat/Pwncat
    Python/Python
    PwnDocNg/PwnDocNg
    ReverseShell/ReverseShell
