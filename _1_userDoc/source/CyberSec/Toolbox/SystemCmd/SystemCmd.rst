@@ -9,10 +9,6 @@ System commands
 .. contents::
     :backlinks: top
 
-.. toctree::
-   :maxdepth: 3
-
-   Child/Child
 
 ####
 

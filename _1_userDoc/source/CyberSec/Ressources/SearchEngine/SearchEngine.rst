@@ -15,7 +15,7 @@ Search Engines
 .. toctree::
    :maxdepth: 2
 
-   OSINT/OSINT
+   OSIntSearchEngine/OSIntSearchEngine
 
 ####
 
@@ -183,7 +183,7 @@ Shodan
         **Liens Web**
         
         * `Shodan`_
-        * `Shodan Filter - Reference`_
+        * `Shodan Filter - Cheat sheet`_
         
 .. _`Shodan Filter - Cheat sheet`: https://www.shodan.io/search/filters
 .. _`Shodan`: https://www.shodan.io/dashboard

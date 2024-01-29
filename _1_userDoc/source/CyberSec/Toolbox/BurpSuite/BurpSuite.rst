@@ -11,11 +11,6 @@ BurpSuite
 .. contents::
     :backlinks: top
 
-.. toctree::
-   :maxdepth: 2
-
-   Child/Child
-
 ####
 
     .. note:: 

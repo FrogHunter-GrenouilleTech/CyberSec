@@ -16,6 +16,7 @@ Blogs
    FlipperZero/FlipperZero
    LDAPBlog/LDAPBlog
    OSintBlog/OSintBlog
+   WriteUp/WriteUp
 
 ####
 

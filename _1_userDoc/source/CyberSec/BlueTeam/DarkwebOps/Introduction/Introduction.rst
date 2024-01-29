@@ -9,10 +9,6 @@ Introduction
 .. contents::
     :backlinks: top
 
-.. toctree::
-   :maxdepth: 3
-
-   child/child
 
 ####
 

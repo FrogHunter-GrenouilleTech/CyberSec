@@ -7,7 +7,7 @@ Net Command
 .. index::
    single: Net Command
    single: Tools; Net Command
-   single: Active Directory ; Active Directory - Enumeration
+   single: Active Directory; Active Directory - Enumeration
    single: Active Directory - Enumeration; Net Command
    single: Enumeration Tools; Net Command
 

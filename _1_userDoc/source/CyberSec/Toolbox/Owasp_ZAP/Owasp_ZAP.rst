@@ -9,11 +9,6 @@ ZAP (owasp)
    single: Web App Pentest; ZAP (owasp)
    single: Web Proxy; ZAP (owasp)
 
-.. toctree::
-   :maxdepth: 2
-
-   Child/Child
-
 .. contents::
     :backlinks: top
 

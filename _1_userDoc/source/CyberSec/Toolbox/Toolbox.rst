@@ -12,6 +12,7 @@ Toolbox
 .. toctree::
    :maxdepth: 2
 
+   BrowserExt/BrowserExt
    BurpSuite/BurpSuite
    Certutil/Certutil
    CrossLinked/CrossLinked
@@ -33,10 +34,12 @@ Toolbox
    PwnDocNg/PwnDocNg
    ReverseShell/ReverseShell
    RTTool/RTTool
+   SploitScan/SploitScan
    Searchsploit/Searchsploit
    SystemCmd/SystemCmd
    VBSript/VBSript
    wget/wget
+   Wireshark/Wireshark
    Wordlist/Wordlist
 
 ####
