@@ -18,6 +18,7 @@ Toolbox
    CrossLinked/CrossLinked
    DockerInUrl/DockerInUrl
    Exegol/Exegol
+   GoAD/GoAD
    Gophish/Gophish
    Hoaxshell/Hoaxshell
    LDAPMonitor/LDAPMonitor
@@ -37,6 +38,7 @@ Toolbox
    SploitScan/SploitScan
    Searchsploit/Searchsploit
    SystemCmd/SystemCmd
+   SysReptor/SysReptor
    VBSript/VBSript
    wget/wget
    Wireshark/Wireshark

@@ -80,6 +80,27 @@ also take a look at **hacktricks** and **ired.team**.
 Keep in mind that these guides are maintained by non-omniscient security enthusiasts in their spare
 time. You will probably find things missing or mistakes and writing all this takes time.
 
+####
+
+---------
+HowToHunt
+---------
+
+    .. note:: 
+        
+        **Label**
+
+        * `HowToHunt.md - Blogs`_
+        * `HowToHunt - Github`_
+        
+.. _`HowToHunt.md - Blogs`: https://kathan19.gitbook.io/howtohunt/
+.. _`HowToHunt - Github`: https://github.com/KathanP19/HowToHunt
+
+Some Tutorials and Things to Do while Hunting Particular Vulnerability.
+
+
+
+
 
 ####
 
