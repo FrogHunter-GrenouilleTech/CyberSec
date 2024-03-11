@@ -22,6 +22,7 @@ LinPEAS – Linux Privilege Escalation Awesome Script
     
 .. _`LinPEAS - Github`: https://github.com/carlospolop/PEASS-ng/tree/master/linPEAS
 
+
 LinPEAS is an awesome script that searches for possible paths to escalate privileges on Linux/Unix
 hosts. The script collects a lot of information from the system that may be useful to discover
 privilege escalation vectors. LinPEAS collects information such as networking information, installed

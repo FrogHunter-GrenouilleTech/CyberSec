@@ -16,6 +16,7 @@ Blogs
    FlipperZero/FlipperZero
    LDAPBlog/LDAPBlog
    OSintBlog/OSintBlog
+   WinPrivEsc/WinPrivEsc
    WriteUp/WriteUp
 
 ####

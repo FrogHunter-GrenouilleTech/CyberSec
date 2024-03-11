@@ -39,6 +39,7 @@ Toolbox
    Searchsploit/Searchsploit
    SystemCmd/SystemCmd
    SysReptor/SysReptor
+   UnixPrivescCheck/UnixPrivescCheck
    VBSript/VBSript
    wget/wget
    Wireshark/Wireshark
