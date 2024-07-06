@@ -23,6 +23,7 @@ Toolbox
    Hoaxshell/Hoaxshell
    LDAPMonitor/LDAPMonitor
    LinPEAS/LinPEAS
+   MailHog/MailHog
    Metasploit/Metasploit
    Netcat/Netcat
    NetCmd/NetCmd

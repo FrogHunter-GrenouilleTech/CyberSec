@@ -11,6 +11,7 @@ Cyber Security
 .. toctree::
    :maxdepth: 2
 
+   LearningProcess/LearningProcess
    BlueTeam/BlueTeam
    Distrib/Distrib
    Hardware/Hardware

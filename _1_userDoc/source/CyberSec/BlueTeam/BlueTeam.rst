@@ -17,6 +17,7 @@ Blue Team
    :maxdepth: 3
 
    DarkwebOps/DarkwebOps
+   SIEM/SIEM
 
 ####
 

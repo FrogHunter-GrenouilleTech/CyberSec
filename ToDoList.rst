@@ -5,7 +5,7 @@ VHL
 ---
 
 6.2 PRIVILEGE ESCALATION ON LINUX
-    --> Linux privilege escalation checker 
+    --> Exploiting SUID permissions
 
 ####
 

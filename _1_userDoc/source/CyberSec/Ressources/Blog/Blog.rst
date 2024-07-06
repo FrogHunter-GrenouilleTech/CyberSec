@@ -15,6 +15,7 @@ Blogs
 
    FlipperZero/FlipperZero
    LDAPBlog/LDAPBlog
+   LinPirvEsc/LinPirvEsc
    OSintBlog/OSintBlog
    WinPrivEsc/WinPrivEsc
    WriteUp/WriteUp
@@ -99,8 +100,19 @@ HowToHunt
 
 Some Tutorials and Things to Do while Hunting Particular Vulnerability.
 
+####
 
+--------------
+Pentest Report
+--------------
 
+   .. note::
+
+    **Liens Web**
+    
+    * `Pentest Report`_
+
+.. _`Pentest Report`: https://csbygb.gitbook.io/pentips/reporting/pentest-report/
 
 
 ####
