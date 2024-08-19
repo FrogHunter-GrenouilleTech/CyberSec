@@ -1,0 +1,54 @@
+==========================
+Cross-Site Scripting (XSS)
+==========================
+
+.. index::
+   single: Cross-Site Scripting (XSS)
+   single: Web Applications - Technics; Cross-Site Scripting (XSS)
+
+.. contents::
+    :depth: 3
+    :backlinks: top
+
+####
+
+HTML Injection vulnerabilities can often be utilized to also perform **Cross-Site Scripting (XSS)**
+attacks by injecting JavaScript code to **be executed on the client-side**. Once we can execute code
+on the victim's machine, we can potentially gain access to the victim's account or even their
+machine. XSS involves the injection of JavaScript code to perform more advanced attacks on the
+client-side
+
+There are three main types of XSS:
+
+    .. note:: 
+        
+        **Reflected XSS**
+
+        Occurs when user input is displayed on the page after processing (e.g., search result or
+        error message).
+
+    
+    .. note:: 
+        
+        **Stored XSS**
+
+        Occurs when user input is stored in the back end database and then displayed upon
+        retrieval (e.g., posts or comments).
+    
+
+    .. note:: 
+        
+        **DOM XSS**
+
+        Occurs when user input is directly shown in the browser and is written to an HTML DOM object
+        (e.g., vulnerable username or page title).
+
+
+
+####
+
+--------
+Weblinks
+--------
+
+.. target-notes::

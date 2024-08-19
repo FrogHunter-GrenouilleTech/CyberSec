@@ -13,7 +13,11 @@ Hack The Box
    :maxdepth: 2
    :caption: Contents:
 
+   LearningProcess/LearningProcess
+   Organization/Organization
+   NetworkTrafficAnalysis/NetworkTrafficAnalysis
    WebRequests/WebRequests
+   WebApplications/WebApplications
 
 ####
 

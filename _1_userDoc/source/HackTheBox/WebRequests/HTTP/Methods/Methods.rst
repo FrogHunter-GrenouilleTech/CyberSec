@@ -67,8 +67,12 @@ Response Codes
         **Liens Web**
 
         * `HTTP response status codes`_
+        * `Cloudflare - HTTP Status Codes`_
+        * `AWS - API Error Codes`_
         
 .. _`HTTP response status codes`: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status
+.. _`Cloudflare - HTTP Status Codes`: https://developers.cloudflare.com/support/troubleshooting/http-status-codes/http-status-codes/
+.. _`AWS - API Error Codes`: https://docs.aws.amazon.com/AmazonSimpleDB/latest/DeveloperGuide/APIError.html
 
 HTTP status codes are used to tell the client the status of their request. An HTTP server can return
 five types of response codes:
@@ -89,6 +93,34 @@ five types of response codes:
       Signifies the server encountered an error while processing the request.
 
 
+Some of the most commonly seen examples from each of the above HTTP method types:
+
+    - **200 OK** - Returned on a successful request, and the response body usually contains the
+      requested resource.
+
+    - **301 Moved Permanently** - Redirects the client to another URL. For example, redirecting the
+      user to their dashboard after a successful login.
+
+    - **302 Found** - Redirects the client to another URL. For example, redirecting the user to their
+      dashboard after a successful login.
+
+    - **400 Bad Request** - Returned on encountering malformed requests such as requests with missing
+      line terminators.
+
+    - **403 Forbidden** - Signifies that the client doesn't have appropriate access to the resource.
+      It can also be returned when the server detects malicious input from the user.
+
+    - **404 Not Found** - Returned when the client requests a resource that doesn't exist on the
+      server.
+
+    - **500 Internal Server Error** - Returned when the server cannot process the request.
+
+    .. note:: 
+        
+        **Information**
+
+       Apart from the standard HTTP codes, various servers and providers such as **Cloudflare** or
+       **AWS** implement their own codes.
 
 
 ####
