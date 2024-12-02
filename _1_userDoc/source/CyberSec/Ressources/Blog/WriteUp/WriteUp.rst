@@ -13,9 +13,9 @@ Write-Up
 ####
 
 .. index::
-   single: NTLM Abuse Methods
+   single: NTLM / NTLMv1 / NTLMv2; NTLM Abuse Methods
    single: Write-Up; NTLM Abuse Methods
-   single: Active Directory; NTLM Abuse Methods
+   single: Active Directory; NTLM / NTLMv1 / NTLMv2; NTLM Abuse Methods
 
 ------------------
 NTLM Abuse Methods

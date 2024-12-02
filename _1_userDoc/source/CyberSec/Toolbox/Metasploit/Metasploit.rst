@@ -7,6 +7,7 @@ Metasploit
 .. index::
    single: Metasploit
    single: Tools; Metasploit
+   single: Attack toolkit; Metasploit
    single: Red Team Tools; Metasploit
 
 .. contents::

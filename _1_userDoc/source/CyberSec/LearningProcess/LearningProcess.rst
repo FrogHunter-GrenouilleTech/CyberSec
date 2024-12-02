@@ -14,6 +14,8 @@ Learning Process
 .. toctree::
    :maxdepth: 2
 
+   Trainning/Trainning
+
 ####
 
 ----------------------

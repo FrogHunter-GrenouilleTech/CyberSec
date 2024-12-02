@@ -7,6 +7,7 @@ BurpSuite
 .. index::
    single: BurpSuite
    single: Web App Pentest; BurpSuite
+   single: Web Proxy; BurpSuite
 
 .. contents::
     :backlinks: top

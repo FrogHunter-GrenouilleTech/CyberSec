@@ -15,12 +15,14 @@ Toolbox
    BrowserExt/BrowserExt
    BurpSuite/BurpSuite
    Certutil/Certutil
+   CeWL/CeWL
    CrossLinked/CrossLinked
    DockerInUrl/DockerInUrl
    Exegol/Exegol
    GoAD/GoAD
    Gophish/Gophish
    Hoaxshell/Hoaxshell
+   JohnTheRipper/JohnTheRipper
    LDAPMonitor/LDAPMonitor
    LinPEAS/LinPEAS
    MailHog/MailHog
@@ -30,10 +32,12 @@ Toolbox
    Nmap/Nmap
    OsintTools/OsintTools
    Owasp_ZAP/Owasp_ZAP
+   Payload/Payload
    Powershell/Powershell
    Pwncat/Pwncat
    Python/Python
    PwnDocNg/PwnDocNg
+   Responder/Responder
    ReverseShell/ReverseShell
    RTTool/RTTool
    SploitScan/SploitScan

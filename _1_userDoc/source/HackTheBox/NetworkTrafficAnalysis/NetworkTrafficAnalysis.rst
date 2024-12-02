@@ -13,10 +13,6 @@ Network Traffic Analysis (NTA)
 .. contents::
     :backlinks: top
 
-.. toctree::
-   :maxdepth: 3
-
-   Child/Child
 
 ####
 
@@ -190,14 +186,17 @@ stage, and predict future occurrences as accurately as possible.
    .. note::
 
       #. Note-taking and mind mapping of the found results
+          
           * Annotating everything we do, see, or find throughout the investigation is crucial.
             Ensure we are taking ample notes, including:
+               
                * Timeframes we captured traffic during.
                * Suspicious hosts within the network.
                * Conversations containing the files in question. ( to include timestamps and packet
                  numbers)
 
       #. Summary of the analysis (what did we find?)
+
           * Finally, summarize what we have found explaining the relevant details so that superiors
             can decide to quarantine the affected hosts or perform more significant incident
             response.
@@ -230,7 +229,7 @@ any conversations that involve the affected hosts within several minutes of the 
 to ensure it did not spread over another route, as an example.
 
 Key Components of an Effective Analysis
-======================================
+=======================================
 
    :Know your environment:
 
