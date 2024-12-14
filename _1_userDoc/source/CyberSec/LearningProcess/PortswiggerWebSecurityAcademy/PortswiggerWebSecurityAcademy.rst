@@ -1,18 +1,16 @@
-====================
-Web Security Academy
-====================
+.. _ref_Portswiggerwsa:
+
+==================================
+Portswigger - Web Security Academy
+==================================
 
 .. index::
-   single: Web Security Academy
-   single: Web Security; Web Security Academy
+   single: Portswigger - Web Security Academy 
+   single: Learning Process; Portswigger - Web Security Academy 
 
 .. contents::
     :backlinks: top
 
-.. toctree::
-   :maxdepth: 2
-
-   serverSideVulnerabilities/serverSideVulnerabilities
 
 ####
 

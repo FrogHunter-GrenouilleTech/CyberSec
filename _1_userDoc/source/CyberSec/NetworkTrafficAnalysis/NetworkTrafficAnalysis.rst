@@ -3,12 +3,8 @@ Network Traffic Analysis (NTA)
 ==============================
 
 .. index::
-   single: Network Traffic Analysis
-   single: NTA
-   single: Blue Team; Network Traffic Analysis
-   single: Red Team; Network Traffic Analysis
-   single: Blue Team; NTA
-   single: Red Team; NTA
+   pair: Network Traffic Analysis; NTA
+
 
 .. contents::
     :backlinks: top

@@ -3,21 +3,12 @@ Hack The Box
 ============
 
 .. index::
-   single: Hack The Box
+   single: Hack The Box; Academia
 
 .. contents::
     :depth: 3
     :backlinks: top
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
-
-   LearningProcess/LearningProcess
-   Organization/Organization
-   NetworkTrafficAnalysis/NetworkTrafficAnalysis
-   WebRequests/WebRequests
-   WebApplications/WebApplications
 
 ####
 

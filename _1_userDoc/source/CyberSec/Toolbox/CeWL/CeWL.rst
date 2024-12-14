@@ -1,11 +1,12 @@
 =================================
 CeWL - Custom Word List generator
 =================================
+   
 
-.. index::
+.. index:: 
    single: CeWL
-   single: Wordlist; CeWL
-   single: Bruteforce; Wordlist; CeWL
+   single: Tools; CeWL
+   single: Wordlist - Tools; CeWL
 
 .. contents::
     :depth: 3

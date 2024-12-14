@@ -11,7 +11,6 @@ Cyber Security's documentation!
    :caption: Contents:
 
    CyberSec/CyberSec
-   HackTheBox/HackTheBox
 
 
 Indices and tables

@@ -4,11 +4,9 @@ Wordlist / Dictionary
 
 .. index::
    single: Wordlist
-   single: Tools; Wordlist
+   single: Dictionary
    single: Bruteforce; Wordlist
    single: Fuzzing; Wordlist
-   single: Dictionary
-   single: Tools; Dictionary
    single: Bruteforce; Dictionary
    single: Fuzzing; Dictionary
 
@@ -40,6 +38,21 @@ also known as a "Dictionary".
 .. _`SecLists`: https://github.com/danielmiessler/SecLists/tree/master
 .. _`UltimateCMSWordlists`: https://github.com/JavierOlmedo/UltimateCMSWordlists
 .. _`kkrypt0nn - wordlists`: https://github.com/kkrypt0nn/wordlists
+
+####
+
+---------------
+seclist - short
+---------------
+
+    .. note:: 
+        
+        **seclist - short**
+
+        .. csv-table::
+           :file: ./assets/seclist-short.csv
+           :header-rows: 1
+
 
 ####
 

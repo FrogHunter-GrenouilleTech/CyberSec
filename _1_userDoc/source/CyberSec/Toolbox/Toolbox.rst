@@ -19,6 +19,7 @@ Toolbox
    CrossLinked/CrossLinked
    DockerInUrl/DockerInUrl
    Exegol/Exegol
+   Ffuf/Ffuf
    GoAD/GoAD
    Gophish/Gophish
    Hoaxshell/Hoaxshell

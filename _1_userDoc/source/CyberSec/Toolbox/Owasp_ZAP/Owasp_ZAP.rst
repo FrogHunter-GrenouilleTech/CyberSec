@@ -6,7 +6,6 @@ ZAP (owasp)
 
 .. index::
    single: ZAP (owasp)
-   single: Web App Pentest; ZAP (owasp)
    single: Web Proxy; ZAP (owasp)
 
 .. contents::

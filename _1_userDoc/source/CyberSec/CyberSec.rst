@@ -12,13 +12,18 @@ Cyber Security
    :maxdepth: 2
 
    LearningProcess/LearningProcess
+   Organization/Organization
+   WebRequests/WebRequests
    BlueTeam/BlueTeam
    Distrib/Distrib
    Hardware/Hardware
+   NetworkTrafficAnalysis/NetworkTrafficAnalysis
    Pentest/Pentest
    Phishing/Phishing
+   Report/Report
    Ressources/Ressources
-   webSecurity/webSecurity
+   WebApplicationsPentest/WebApplicationsPentest
+   Technics/Technics
    Toolbox/Toolbox
 
 ####

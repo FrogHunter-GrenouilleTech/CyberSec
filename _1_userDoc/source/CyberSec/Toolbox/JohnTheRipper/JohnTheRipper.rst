@@ -6,6 +6,7 @@ John the Ripper password cracker
    single: John the Ripper
    single: Password cracker; John the Ripper
    single: Bruteforce; John the Ripper
+   single: Wordlist - Tools; John the Ripper
 
 .. contents::
     :depth: 3
