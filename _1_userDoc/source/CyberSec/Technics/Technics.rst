@@ -12,6 +12,7 @@ Technics
    :maxdepth: 3
 
    Fuzzing/Fuzzing
+   ShellTechnics/ShellTechnics
 
 ####
 

@@ -13,9 +13,8 @@ Reverse Shell
 
 ####
 
-    .. note:: 
-        
-        **Liens Web**
+    .. note:: 🔗 **Liens Web**
+       :class: note
         
         * `Reverse Shell Cheat Sheet`_
     
@@ -112,9 +111,8 @@ Since a reverse shell can be establish only after the exploitation of one or mor
 need need to push the reverse shell, to the compromised computer, as a payload in the same time of
 the exploitation of the vulnerability.
 
-    .. note:: 
-        
-        **Liens Web**
+    .. note:: 🔗 **Liens Web**
+       :class: note
 
         * `Reverse Shell Generator`_
         * `rcX - Shell Generator`_
@@ -143,15 +141,15 @@ Reverse shell Handler
 How to Stabilized a reverse shell ?
 -----------------------------------
 
-    .. note:: 
-        
-        **Liens Web**
+    .. admonition:: 🔗 **Liens Web**
+       :class: note
         
         * `Stabilizing the Shell`_
     
 .. _`Stabilizing the Shell`: https://jasonturley.xyz/how-to-stabilize-a-reverse-shell/
 
-    .. note:: 
+    .. admonition:: 💻 **Code Snipet**
+       :class: note
         
         This command provide a clean shell but with :
 
@@ -160,10 +158,26 @@ How to Stabilized a reverse shell ?
             * no [CTRL]-c
         
         .. code:: shell
-            :number-lines:
-            :force:
+           :number-lines:
+           :force:
 
              python -c "import pty; pty.spawn('/bin/bash')"
+
+        After we run this command, we will hit ctrl+z to background our shell and get back on our
+        local terminal, and input the following stty command:
+
+        .. code:: shell
+           :number-lines:
+           :force:
+
+             www-data@remotehost$ ^Z
+
+             FrogHunter95@htb[/htb]$ stty raw -echo
+             FrogHunter95@htb[/htb]$ fg
+             
+             [Enter]
+             [Enter]
+             www-data@remotehost$
 
 
 ####

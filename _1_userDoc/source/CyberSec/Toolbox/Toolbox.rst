@@ -17,6 +17,7 @@ Toolbox
    Certutil/Certutil
    CeWL/CeWL
    CrossLinked/CrossLinked
+   Crtsh/Crtsh
    DockerInUrl/DockerInUrl
    Exegol/Exegol
    Ffuf/Ffuf
@@ -49,6 +50,7 @@ Toolbox
    VBSript/VBSript
    wget/wget
    Wireshark/Wireshark
+   Whois/Whois
    Wordlist/Wordlist
 
 ####
