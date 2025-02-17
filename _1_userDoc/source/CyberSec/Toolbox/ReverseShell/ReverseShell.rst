@@ -163,6 +163,7 @@ How to Stabilized a reverse shell ?
 
              python -c "import pty; pty.spawn('/bin/bash')"
 
+
         After we run this command, we will hit ctrl+z to background our shell and get back on our
         local terminal, and input the following stty command:
 
@@ -178,6 +179,39 @@ How to Stabilized a reverse shell ?
              [Enter]
              [Enter]
              www-data@remotehost$
+
+
+        We may notice that our shell does not cover the entire terminal. To fix this, we need to
+        figure out a few variables. We can **open another terminal window on our system**, maximize
+        the windows or use any size we want, and then input the following commands to get our
+        variables:
+
+        .. code:: shell
+           :number-lines:
+           :force:
+
+             FrogHunter95@htb[/htb]$ echo $TERM
+
+             xterm-256color
+
+             FrogHunter95@htb[/htb]$ stty size
+
+             67 318
+
+        The first command showed us the **TERM variable**, and the second shows us the values for 
+        **rows and columns**, respectively. Now that we have our variables, we can **go back to our
+        netcat shell** and use the following command to correct them:
+        
+        .. code:: shell
+           :number-lines:
+           :force:
+
+             www-data@remotehost$ export TERM=xterm-256color
+
+             www-data@remotehost$ stty rows 67 columns 318
+
+        Once we do that, we should have a netcat shell that uses the terminal's full features, just like an SSH connection.
+
 
 
 ####
